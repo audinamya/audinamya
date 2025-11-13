@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey, welcome to my GitHub!👋
+
+![Mia Audina](img/foto_mia.jpeg)
 
 <!--
 **audinamya/audinamya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Recently graduated in Computer Science (Informatics Engineering).
+🌱 Currently exploring Machine Learning and data analysis.
+💻 Still sharpening my programming and web development skills.
+🤝 Open for collaboration and new learning opportunities!
