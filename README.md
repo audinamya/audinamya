@@ -23,9 +23,11 @@ Welcome to my GitHub! Here I share my projects, experiments, and learning code.
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=audinamya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=audinamya&theme=tokyonight&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=audinamya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=audinamya&hide_border=true&include_all_commits=false&count_private=false&title_color=A7FFEB,CCFF90&icon_color=80D8FF&text_color=B3E5FC&bg_color=001F3F)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=audinamya&hide_border=true&ring=A7FFEB&fire=CCFF90&currStreakNum=80D8FF&currStreakLabel=B3E5FC&sideNums=80D8FF&sideLabels=B3E5FC&dates=B3E5FC&background=001F3F)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=audinamya&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=A7FFEB,CCFF90&icon_color=80D8FF&text_color=B3E5FC&bg_color=001F3F)
 
 ---
 
