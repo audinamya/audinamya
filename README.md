@@ -30,4 +30,4 @@ Welcome to my GitHub! Here I share my projects, experiments, and learning code.
 ---
 
 
-[![Visitors](https://visitcount.itsvg.in/api?id=audinamya&icon=0&color=0)](https://visitcount.itsvg.in)
+
